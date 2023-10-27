@@ -1,0 +1,158 @@
+
+body {
+    max-width: 450px;
+    max-height: 500px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.2rem;
+    line-height: 1.65;
+    color: #393d41;
+
+    text-align: center;
+     }
+/* Modifico stile dei titoli */
+header {
+    background-color: black;
+       }
+header .headings {
+    padding: 40px 40px 20px 40px;
+    font-size: 35px;
+    line-height: 1;
+                 }
+header p {
+    padding: 0px 50px 65px 50px;
+         }
+header a {
+    padding: 10px 50px 10px 50px;
+    background-color: #f04c2f;
+    border-radius: 5%;
+    color: white;
+    text-decoration: none;
+         }
+#logo {
+    width: 150px;
+    height: 40px;
+    padding: 30px
+      }
+#banner {
+    background-image: url(../images/banner.jpg);
+    width: 450px;
+    height: 400px;
+    background-size: cover;
+        }
+
+.headings {
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.5;
+    color: #25a2c3;
+          }
+/* Modifico lo stile del footer */
+.footerheading {
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.5;
+    color: white;
+               }
+.footer {
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.5;
+    color: #c8e7f0;
+        }
+.footerlink {
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.5;
+    color: #c8e7f0;
+    text-decoration: 0;
+    list-style: none;
+            }
+/* Modifico il primo div */
+.primo {
+    padding: 70px 40px 10px 40px;
+       }
+.secondo, .quarto {
+    padding: 0px 40px 10px 40px;
+                  }
+.terzo {
+    padding: 20px 40px 10px 40px;
+       }
+article p {
+    padding: 0px 50px 30px 50px;
+          }
+#inizio {
+    border-radius: 50%;
+    width: 350px;
+            }
+/* Mi occupo delle testimonianze */
+.testimonianze {
+    background-color: #e22d0e;
+    padding: 40px 10px 40px 15px;
+               }
+.footerth {
+    padding: 10px 0px 20px 0px;
+    font-size: 1.8em;
+                }
+.footertp {
+    font-family: 'Open Sans', sans-serif;
+    font-style: italic;
+    font-size: 20px;
+    line-height: 1.5;
+    padding-bottom: 30px;
+                }
+.footerts {
+    font-family: 'Open Sans', sans-serif;
+          }
+/* Mi occupo del secondo div */
+#divsecondo img {
+    width: 400px;
+    padding: 70px 0x 0px 0px;
+            }
+#first {
+    
+    margin: 40px 20px 40px 20px;
+    border: solid 1px #dee1e3;
+    width: 400px;
+    border-radius: 1%;
+       }
+#second {
+    margin: 40px 20px 40px 20px;
+    border: solid 1px #dee1e3;
+    width: 400px;
+    border-radius: 1%;
+        }
+#third {
+    margin: 40px 20px 100px 20px;
+    border: solid 1px #dee1e3;
+    width: 400px;
+    border-radius: 1%;
+       }
+#divsecondo .headings {
+    padding: 20px;
+                      }
+/* Mi occupo del div finale */
+.secondoaside {
+    background-color: #26A3BF;
+    padding: 55px;
+    color: white;
+              }
+.secondoaside h2 {
+    padding: 0px 40px 20px 40px;
+    font-size: 35px;
+    line-height: 1;
+                 }
+.secondoaside footer, span {
+    font-family: 'Open Sans', sans-serif;
+                           }
+.secondoaside hr {
+    width: 200px;
+                 }
+#icone, #icone2, #icone3 {
+    background-color: white;
+    border-radius: 10%;
+    color: #26A3BF;
+    padding: 1px;
+                }
+.icone {
+    padding-left: 5px;
+    padding-top: 5px;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+       }
+
